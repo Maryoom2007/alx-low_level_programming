@@ -2,7 +2,7 @@
 /**
  * main - entry of any c program
  *
- * return - it 0
+ * Return: Always 0 (SUCCSESS (SUCCSESS))
 */
 int main(void)
 {
