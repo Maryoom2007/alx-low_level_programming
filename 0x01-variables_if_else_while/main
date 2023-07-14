@@ -1,0 +1,6 @@
+#!/bin/bash
+read var 
+touch ${var}
+echo '#!/bin/bash' > ${var}
+chmod +x ${var}
+
