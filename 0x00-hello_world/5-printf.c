@@ -2,7 +2,7 @@
 /**
  * main - entry of any c program
  *
- * return: 0
+ * return - it 0
 */
 int main(void)
 {
