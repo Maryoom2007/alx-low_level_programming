@@ -1,8 +1,11 @@
 #include <stdio.h>
 int main(void)
 /**
- * main - is the main function
+ * main - entry point
  *
+ * Discriptiomn: a c first program
+ *
+ *Return: 0
 */
 {
 puts("\"Programming is like building a multilingual puzzle");
